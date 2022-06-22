@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/_GEEK/02_ANDROID_GEEK/Lesson_02/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.2675" />
         <entry key="..\:/_GEEK/02_ANDROID_GEEK/Lesson_02/app/src/main/res/layout/activity_main.xml" value="0.165625" />
+        <entry key="..\:/_GEEK/02_ANDROID_GEEK/Lesson_02/app/src/main/res/layout/constraint2_example.xml" value="0.29270833333333335" />
+        <entry key="..\:/_GEEK/02_ANDROID_GEEK/Lesson_02/app/src/main/res/layout/constraint_example.xml" value="0.5" />
         <entry key="..\:/_GEEK/02_ANDROID_GEEK/Lesson_02/app/src/main/res/layout/frame_example.xml" value="0.269140625" />
+        <entry key="..\:/_GEEK/02_ANDROID_GEEK/Lesson_02/app/src/main/res/layout/grid_layout_example.xml" value="0.33" />
         <entry key="..\:/_GEEK/02_ANDROID_GEEK/Lesson_02/app/src/main/res/layout/linear_layout_example.xml" value="0.35885416666666664" />
       </map>
     </option>
